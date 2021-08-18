@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Eden*</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-08-18T16:09:49.146Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Sion</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>日常</title>
+    <link href="http://example.com/2021/08/18/%E6%88%91%E7%9A%84%E6%97%A5%E5%B8%B8/"/>
+    <id>http://example.com/2021/08/18/%E6%88%91%E7%9A%84%E6%97%A5%E5%B8%B8/</id>
+    <published>2021-08-18T15:54:41.000Z</published>
+    <updated>2021-08-18T16:09:49.146Z</updated>
+    
+    <content type="html"><![CDATA[<script src="\assets\js\APlayer.min.js"> </script><h1 id="2021-7-31"><a href="#2021-7-31" class="headerlink" title="2021.7.31"></a>2021.7.31</h1><ol><li>YOGA14s i5-11300H 核显 2021， 性能是真不行，PR2020多素材会闪退。</li><li>马克兔有点不好用</li></ol><h1 id="2021-8-6"><a href="#2021-8-6" class="headerlink" title="2021.8.6"></a>2021.8.6</h1><ol><li>看到了B站18岁全能高中生凌十七的自制机器人<a href="https://www.bilibili.com/video/BV1s44y1173e">作品</a>，大受震撼，得努力学习。</li><li>PR剪了原神GMV（1.4min）感觉很一般，下次开始用达芬奇了。</li><li>Windows11 dev与beta同时更新22000.120，主要：修复bug，右键菜单更紧凑，从win11 dev正式发布开始一直用到现在没发生过什么大bug。</li></ol><h1 id="2021-8-11"><a href="#2021-8-11" class="headerlink" title="2021.8.11"></a>2021.8.11</h1><ol><li>做了第一次特效字幕视频「さくらの雲＊スカアレットの恋」 <a href="https://www.bilibili.com/video/BV1rg411L7RP">OP</a>，自我感觉还行。</li><li>以后会做自己喜欢的作品的特效字幕。</li><li>马克兔的摄像大师很好玩，有趣。</li><li>YOGA14s 性能是真不行，PR，AE，达芬奇各种卡顿，以后得买个30系显卡的PC。</li></ol><h1 id="2021-8-18"><a href="#2021-8-18" class="headerlink" title="2021.8.18"></a>2021.8.18</h1><ol><li>win11不能用转区工具与VNR是真的难受（悲）</li><li>终结的百合花（ENDER LILIES）2D类魂游戏，很好玩，难度也合适，最主要是我很喜欢这画风和音乐</li></ol>]]></content>
+    
+    
+    <summary type="html">日常吐槽</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>网站更新记录(美化）</title>
+    <link href="http://example.com/2021/07/17/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95/"/>
+    <id>http://example.com/2021/07/17/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95/</id>
+    <published>2021-07-17T06:35:11.000Z</published>
+    <updated>2021-08-18T16:09:11.151Z</updated>
+    
+    <content type="html"><![CDATA[<script src="\assets\js\APlayer.min.js"> </script><h1 id="2021-7-15"><a href="#2021-7-15" class="headerlink" title="2021.7.15"></a>2021.7.15</h1><p>本日建设此博客，最初是采用的是<a href="https://theme-next.js.org/">NexT</a>主题。<br><img src="https://i.loli.net/2021/07/17/dDGl83tBIFTbcS1.png" alt="NexT"></p><h1 id="2021-7-16"><a href="#2021-7-16" class="headerlink" title="2021.7.16"></a>2021.7.16</h1><p>因Next教程大多都过时了，偶然间又在酷安上发现了<a href="https://butterfly.js.org/">Butterfly</a>主题且看到效果非常不错，<br>于是就改成了此主题。经过百般摸索变成了下图。<br><img src="https://i.loli.net/2021/07/17/Pbo8LdiE6WOcR2y.png" alt="Butterfly"></p><h1 id="2021-7-17"><a href="#2021-7-17" class="headerlink" title="2021.7.17"></a>2021.7.17</h1><p> 本日开始更新博文！</p><h1 id="2021-8-16"><a href="#2021-8-16" class="headerlink" title="2021.8.16"></a>2021.8.16</h1><p> 不知道写什么合适呀</p>]]></content>
+    
+    
+    <summary type="html">网站历史相关</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2021/07/15/hello-world/"/>
+    <id>http://example.com/2021/07/15/hello-world/</id>
+    <published>2021-07-15T08:00:00.000Z</published>
+    <updated>2021-07-17T12:17:09.539Z</updated>
+    
+    <content type="html"><![CDATA[<script src="\assets\js\APlayer.min.js"> </script><h1 id="这里是Sion的博客哦"><a href="#这里是Sion的博客哦" class="headerlink" title="这里是Sion的博客哦"></a>这里是Sion的博客哦</h1><p>   会坚持更新下去的</p><p><img src="https://i.loli.net/2021/07/17/43bfjtpheMAPOYH.jpg" alt="喵喵喵？"></p>]]></content>
+    
+    
+    <summary type="html">关于本站</summary>
+    
+    
+    
+    
+  </entry>
+  
+</feed>
