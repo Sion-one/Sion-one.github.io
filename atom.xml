@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-08-25T12:43:45.831Z</updated>
+  <updated>2021-08-29T08:12:33.403Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,13 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Chrome快捷键</title>
+    <link href="http://example.com/2021/08/29/chrome%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
+    <id>http://example.com/2021/08/29/chrome%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE/</id>
+    <published>2021-08-29T07:30:05.000Z</published>
+    <updated>2021-08-29T08:12:33.403Z</updated>
+    
+    <content type="html"><![CDATA[<script src="\assets\js\APlayer.min.js"> </script><h1 id="窗口与标签页快捷键"><a href="#窗口与标签页快捷键" class="headerlink" title="窗口与标签页快捷键"></a><strong>窗口与标签页快捷键</strong></h1><ol><li><strong>【Ctrl+N】</strong>打开新标签页</li><li><strong>【Ctrl+T】</strong>打开新窗口</li><li><strong>【Ctrl+Shift+T】</strong>打开新窗口（无痕模式）</li><li><strong>【Alt+F4】</strong>关闭当前窗口</li><li><strong>【Ctrl+Tab】</strong> 切换到下一个标签页 </li><li><strong>【Ctrl+Shift+Tab】</strong>切换到上一个标签页 </li><li><strong>【Ctrl+W】</strong>关闭当前标签页</li><li><strong>【Ctrl+Shift+T</strong>】 打开上次关闭的标签页</li><li><strong>【Ctrl+1 到 Ctrl+8】</strong> 切换到指定位置编号的标签页</li><li><strong>【Ctrl+9】</strong> 切换到最后一个标签页</li><li><strong>按住 Ctrl 键后点击链接</strong>，从后台在新标签页中打开链接</li><li><strong>按住 Ctrl+Shift 键后点击链接</strong>，在新标签页中打开链接</li><li><strong>按住 Shift 键后点击链接</strong>，在新窗口中打开链接 </li></ol><h1 id="地址栏与功能快捷键"><a href="#地址栏与功能快捷键" class="headerlink" title="地址栏与功能快捷键"></a>地址栏与功能快捷键</h1><ol><li><strong>【Ctrl+Shift+B】</strong> 打开/关闭书签栏</li><li><strong>【Ctrl+Shift+O】</strong> 打开书签管理器 </li><li><strong>【Ctrl+H】</strong> 打开历史记录</li><li><strong>【Ctrl+J】</strong>打开下载页面</li><li><strong>【Shift+Escape】</strong> 任务管理器 </li></ol><h1 id="网页快捷键"><a href="#网页快捷键" class="headerlink" title="网页快捷键"></a>网页快捷键</h1><ol><li><strong>【F5】</strong> 重新加载当前页 </li><li><strong>【F11】</strong>全屏模式</li><li><strong>【Ctrl+S】</strong> 保存当前页面</li><li><strong>【Ctrl+P】</strong> 打印当前页面</li><li><strong>【Ctrl+F】</strong> 在网页上查找 </li><li><strong>【Ctrl+D】</strong> 将当前网页加入书签 </li><li><strong>【Ctrl+0】</strong> 将网页上的内容恢复到正常大小 </li><li><strong>【Ctrl+U】</strong> 查看源代码 </li><li><strong>【Ctrl+Shift+I】</strong>开发者模式</li><li><strong>按住 Alt 键后点击链接</strong>，下载该链接 </li></ol>]]></content>
+    
+    
+    <summary type="html">个人整理的实用快捷键</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>舰队活动日志</title>
     <link href="http://example.com/2021/08/23/%E8%88%B0%E9%98%9F%E6%B4%BB%E5%8A%A8%E6%97%A5%E8%AE%B0/"/>
     <id>http://example.com/2021/08/23/%E8%88%B0%E9%98%9F%E6%B4%BB%E5%8A%A8%E6%97%A5%E8%AE%B0/</id>
     <published>2021-08-23T10:05:16.000Z</published>
-    <updated>2021-08-25T12:43:45.831Z</updated>
+    <updated>2021-08-29T07:25:18.507Z</updated>
     
-    <content type="html"><![CDATA[<script src="\assets\js\APlayer.min.js"> </script><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><ul><li>今天（2021.8.23）突然想写砍口垒的记录，但不知道写什么好（一直都是长草期，都快死鱼了）</li><li>我的入坑时间：入坑年份是2017后半年，具体时间我自己记不太清了（Doge</li><li>我的入坑契机：在那时候我主要玩是碧蓝航线，战舰少女，战舰联盟等等游戏，在一次偶然间在翻百科时看到了《战舰少女》的历史词条知道了舰R与舰C的历史，实话说那时候我对舰C还挺感兴趣的（在各种网站上看到过很多舰c的同人创作，把舰c的玩法错以为是舰a），于是就直接百度搜索舰c的入坑方法与教程，在我的努力坚持下终于玩到了这款舰娘游戏的鼻祖，然后就玩到了现在</li><li>吸引我的原因：各种同人创作，立绘上的历史细节，游戏内容（想玩就玩，不逼氪），还有就是我本身就对二战海战与军舰很感兴趣</li><li>期间发生的事：在刚接触游戏时，就在各种论坛上知道了游戏内有沉船系统，但没玩多久我就沉了（当时就侥幸心理吧），沉了之后才知道是多伤心，之后弃坑了很久</li><li>补充：我开始认真玩的时间是2020年下半年，碧蓝航线也是在这个时间段退坑的（开始感觉没有好玩的要素了，我本身就一佛系玩家，对上班式游戏不感兴趣）</li><li>上次活动纪念图(吃饼)<img src="https://i.loli.net/2021/08/23/zDevhitaQ2c1swk.jpg" alt="2021年春活"></li><li>游戏练度（2021.8.23）<img src="https://i.loli.net/2021/08/23/1D9c7WjvQZaFApC.png" alt="哇，这个人好菜"></li></ul><h2 id="2021-8-23"><a href="#2021-8-23" class="headerlink" title="2021.8.23"></a>2021.8.23</h2><ul><li>明天开始记录21年夏季活动的攻略记录（还没入场</li></ul><h2 id="8-24"><a href="#8-24" class="headerlink" title="8.24"></a>8.24</h2><ul><li><p>今天看着证书的攻略入场，E1（乙）的P1是我最苦手的对陆战，试着打了两次（感觉能过的亚子<img src="https://i.loli.net/2021/08/24/ugxMTFb6dUmEIlj.png" alt="被 打爆"><img src="https://i.loli.net/2021/08/24/ZANfyPMgr6sWOql.png" alt="这次用了倍卡，好像还行"></p></li><li><p>想起来我还没打月常，明天开肝</p></li></ul><h2 id="8-25"><a href="#8-25" class="headerlink" title="8.25"></a>8.25</h2><ul><li><p>看样子我得先把珀斯练起来<img src="https://i.loli.net/2021/08/25/Ho6P5QmEItGnDCz.png" alt="练度有点不够"></p></li><li><p>月常摸了，周末来肝（</p></li></ul>]]></content>
+    <content type="html"><![CDATA[<script src="\assets\js\APlayer.min.js"> </script><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><ul><li>今天（2021.8.23）突然想写砍口垒的记录，但不知道写什么好（一直都是长草期，都快死鱼了）</li><li>我的入坑时间：入坑年份是2017后半年，具体时间我自己记不太清了（Doge</li><li>我的入坑契机：在那时候我主要玩是碧蓝航线，战舰少女，战舰联盟等等游戏，在一次偶然间在翻百科时看到了《战舰少女》的历史词条知道了舰R与舰C的历史，实话说那时候我对舰C还挺感兴趣的（在各种网站上看到过很多舰c的同人创作，把舰c的玩法错以为是舰a），于是就直接百度搜索舰c的入坑方法与教程，在我的努力坚持下终于玩到了这款舰娘游戏的鼻祖，然后就玩到了现在</li><li>吸引我的原因：各种同人创作，立绘上的历史细节，游戏内容（想玩就玩，不逼氪），还有就是我本身就对二战海战与军舰很感兴趣</li><li>期间发生的事：在刚接触游戏时，就在各种论坛上知道了游戏内有沉船系统，但没玩多久我就沉了（当时就侥幸心理吧），沉了之后才知道是多伤心，之后弃坑了很久</li><li>补充：我开始认真玩的时间是2020年下半年，碧蓝航线也是在这个时间段退坑的（开始感觉没有好玩的要素了，我本身就一佛系玩家，对上班式游戏不感兴趣）</li><li>上次活动纪念图(吃饼)<img src="https://i.loli.net/2021/08/23/zDevhitaQ2c1swk.jpg" alt="2021年春活"></li><li>游戏练度（2021.8.23）<img src="https://i.loli.net/2021/08/23/1D9c7WjvQZaFApC.png" alt="哇，这个人好菜"></li></ul><h2 id="2021-8-23"><a href="#2021-8-23" class="headerlink" title="2021.8.23"></a>2021.8.23</h2><ul><li>明天开始记录21年夏季活动的攻略记录（还没入场</li></ul><h2 id="8-24"><a href="#8-24" class="headerlink" title="8.24"></a>8.24</h2><ul><li><p>今天看着证书的攻略入场，E1（乙）的P1是我最苦手的对陆战，试着打了两次（感觉能过的亚子<img src="https://i.loli.net/2021/08/24/ugxMTFb6dUmEIlj.png" alt="被 打爆"><img src="https://i.loli.net/2021/08/24/ZANfyPMgr6sWOql.png" alt="这次用了倍卡，好像还行"></p></li><li><p>想起来我还没打月常，明天开肝</p></li></ul><h2 id="8-25"><a href="#8-25" class="headerlink" title="8.25"></a>8.25</h2><ul><li><p>看样子我得先把珀斯练起来<img src="https://i.loli.net/2021/08/25/Ho6P5QmEItGnDCz.png" alt="练度有点不够"></p></li><li><p>月常摸了，周末来肝（</p></li></ul><h3 id="8-29"><a href="#8-29" class="headerlink" title="8.29"></a>8.29</h3><ul><li>前两天摸了(POI的网好卡，不想打)</li><li>要全程吃饼了（菜</li><li></li></ul>]]></content>
     
     
     <summary type="html">砍口垒记录</summary>
