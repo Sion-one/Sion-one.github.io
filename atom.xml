@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-02-20T03:50:21.861Z</updated>
+  <updated>2021-09-04T13:22:26.305Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,23 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>第一堂Java</title>
-    <link href="http://example.com/2023/02/20/%E7%AC%AC%E4%B8%80%E5%A0%82Java/"/>
-    <id>http://example.com/2023/02/20/%E7%AC%AC%E4%B8%80%E5%A0%82Java/</id>
-    <published>2023-02-20T03:49:02.000Z</published>
-    <updated>2023-02-20T03:50:21.861Z</updated>
-    
-    <content type="html"><![CDATA[<script src="\assets\js\APlayer.min.js"> </script><h1 id="我的第一个java程序"><a href="#我的第一个java程序" class="headerlink" title="我的第一个java程序"></a>我的第一个java程序</h1><h2 id="教学流程："><a href="#教学流程：" class="headerlink" title="教学流程："></a>教学流程：</h2><ol><li>在CMD中查询java及javac的版本</li><li>在C盘根目录新建文件夹（纯英文），进入文件夹新建名为”Hello.java”的新文件</li><li>用记事本打开”Hello.java”，开始写代码（见下图1）</li><li>先CD到文件目录，再使用CMD命令”javac 文本名+后缀”编译class文件，再使用”java 文本名”运行java文件 （见图2）</li></ol><h2 id="代码："><a href="#代码：" class="headerlink" title="代码："></a>代码：</h2><p><img src="C:\Users\Shion\AppData\Roaming\Typora\typora-user-images\image-20230220112708512.png" alt="图1" style="zoom:25%;" /></p><p><img src="C:\Users\Shion\AppData\Roaming\Typora\typora-user-images\image-20230220114149749.png" alt="图2" style="zoom:25%;" /></p>]]></content>
-    
-    
-    <summary type="html">java-第一堂</summary>
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>Chrome快捷键</title>
